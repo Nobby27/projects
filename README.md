@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong style="font-size: 24px;">
-    Übungsprojekt mit der Datenbank über Steam, Xbox und Playstation.
+   # Übungsprojekt mit der Datenbank über Steam, Xbox und Playstation.
   </strong>
 </p>
 
