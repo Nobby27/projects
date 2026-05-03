@@ -21,7 +21,10 @@
 VSCode, DBeaver, PowerPoint
 
 
-## Echoes of Aether
+## Fiktives Spiel
+
+Echoes of Aether
+
 <p align="center">
   <img src="./gamingprojectGITHUB/GAME.png" alt="Header" width="20%" height="20%"/>
 </p>
