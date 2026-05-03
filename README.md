@@ -5,6 +5,9 @@
 
    # Übungsprojekt mit der Datenbank über Steam, Xbox und Playstation.
 
+<p align="center">
+   <img src="./gamingprojectGITHUB/Edit_this_game_poster_while_preserving_the_origina-1776150522884.png alt="Header" width="20%" height="20%"/>
+</p>
 
 
 
