@@ -5,6 +5,13 @@
 
    # Übungsprojekt mit der Datenbank über Steam, Xbox und Playstation.
 
+   Fiktive Gaming-Firma "Midnight-Forge" Präsentiert:
+
+<p align="center">
+  <img src="./gamingprojectGITHUB/Mitternachtsschmiede-Logo.png" alt="Header" width="10%" height="10%"/>
+</p>
+
+
 <p align="center">
   <img src="./gamingprojectGITHUB/fragezeichen.png" alt="Header" width="10%" height="10%"/>
 </p>
