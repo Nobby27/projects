@@ -6,7 +6,7 @@
    # Übungsprojekt mit der Datenbank über Steam, Xbox und Playstation.
 
 <p align="center">
-  <img src="./gamingprojectGITHUB/fragezeichen.png" alt="Header" width="20%" height="20%"/>
+  <img src="./gamingprojectGITHUB/fragezeichen.png" alt="Header" width="10%" height="10%"/>
 </p>
 
 
